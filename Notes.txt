@@ -1,0 +1,14 @@
+Perfomance Testing Identified
+ - Load testing
+ - Stress testing
+ - Scalaility testing
+
+Bottlenecks
+ - Resource Limitations / hardware - CPU usage
+ - Network Latency / Bandwidth Limitations - heavy internet connectivity required for data transfer
+ - Database Perfomance - slow database queiries and poor database schema design and indexing or server constraints
+ - Poor Code - unoptimized algorithms , difficult to scale when data volumes increases
+
+Showcase performance issue diagnose
+Showcase performance tuning
+Report
